@@ -182,7 +182,7 @@ Instead of trying to build everything at once, you:
 This keeps development **incremental, testable, maintainable, and focused on actual requirements**.\
 </br>
 
-<h2 style="color: red;">Common Interview Questions on Red-Green-Refactor (TDD)</h2>
+## 🔴🟢🔵 Common Interview Questions on Red-Green-Refactor (TDD)
 
 ### 1. What is Red-Green-Refactor in TDD?
 
